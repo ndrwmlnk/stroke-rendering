@@ -93,6 +93,7 @@ __Deep Reinforcement Learning (DRL):__ Agent predicts next stroke to paint, give
 
 Name  | Architecture | Notes / Description
 ------------- | ------------- | -
+Neural painters: A learned differentiable constraint for generating brushstroke paintings | Supervised Learning | [[Code 1]](https://github.com/reiinakano/neural-painters-pytorch) [[Code 2]](https://github.com/reiinakano/neural-painters)
 Unsupervised image to sequence translation with canvas-drawer networks | Supervised learning | [[Unofficial code]](https://github.com/wgoldie/canvasdrawer)
 Strokenet: A neural painting environment | Supervised learning | [[Code]](https://github.com/vexilligera/strokenet)
 Paint transformer: Feed forward neural painting with stroke prediction | Supervised learning | [[Code]](https://github.com/Huage001/PaintTransformer)
