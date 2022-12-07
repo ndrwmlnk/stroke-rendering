@@ -1,5 +1,6 @@
-# Stroke-based-painting
-Repository for the survey on stroke-based painterly rendering algorithms
+# Stroke-based Rendering
+
+Repository for the survey on stroke-based painterly rendering algorithms: _Stroke-based Rendering: From Heuristics to Deep Learning_
 
 _Note:_ Not all GitHub links are the official implementations!
 
